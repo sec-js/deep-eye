@@ -253,12 +253,30 @@ python scripts/build_cve_rag_index.py
 
 <p align="center">
   <a href="https://inferhub.dev/signup?ref=saqutsy3" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/inferhub-logo.jpg" alt="InferHub" height="140" widht="100">
+    <img src="./assets/inferhub-logo.jpg" alt="InferHub" height="140" width="100">
   </a>
 </p>
 
 <p align="center">
   Deep Eye is proudly sponsored by <a href="https://inferhub.dev/signup?ref=saqutsy3">InferHub</a>.
+</p>
+
+<p align="center">
+  <a href="https://www.swiftproxy.net/?ref=zakirkun" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/swiftproxy_banner.png" alt="Swiftproxy" width="800">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Swiftproxy</strong> provides 90M+ clean residential IPs across 220+ locations, supporting HTTP(S)/SOCKS5, IP rotation, Sticky Sessions, and precise location targeting.
+  <br />
+  Residential proxies from $0.7/GB.
+  <br />
+  <strong>Free testing available — use code PROXY90 for 10% off.</strong>
+</p>
+
+<p align="center">
+  Deep Eye is proudly sponsored by <a href="https://www.swiftproxy.net/?ref=zakirkun">Swiftproxy</a>.
 </p>
 
 ## Legal Disclaimer
