@@ -263,15 +263,6 @@ python scripts/build_cve_rag_index.py
   Free testing available. Use code <code>PROXY90</code> for 10% off.
 </p>
 
-<p align="center">
-  <a href="https://inferhub.dev/signup?ref=saqutsy3" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/inferhub-logo.jpg" alt="InferHub" height="140" widht="100">
-  </a>
-</p>
-
-<p align="center">
-  Deep Eye is proudly sponsored by <a href="https://inferhub.dev/signup?ref=saqutsy3">InferHub</a>.
-</p>
 
 ## Legal Disclaimer
 
